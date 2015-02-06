@@ -1,7 +1,7 @@
 Summary:       Programs for Processing and Analysis of Astronomical Data
 Name:          iraf
 Version:       2.16
-Release:       1
+Release:       2
 License:       MIT-like
 Group:         Sciences/Astronomy
 
