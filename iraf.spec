@@ -5,7 +5,7 @@ Release:       2
 License:       MIT-like
 Group:         Sciences/Astronomy
 
-Url:           http://iraf.noao.edu/
+Url:           https://iraf.noao.edu/
 Source0:       iraf-src.tar.xz
 Source1:       get-iraf.sh
 
