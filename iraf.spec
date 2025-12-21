@@ -11,6 +11,7 @@ Source1:       get-iraf.sh
 
 Patch0:        iraf-build.patch
 
+BuildRequires:	make
 BuildRequires: curl-devel
 BuildRequires: expat-devel
 BuildRequires: readline-devel
